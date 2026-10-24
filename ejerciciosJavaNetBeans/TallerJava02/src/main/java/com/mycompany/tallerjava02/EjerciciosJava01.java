@@ -8,9 +8,13 @@ package com.mycompany.tallerjava02;
  *
  * @author Usuario
  */
-public class TallerJava02 {
+import java.util.Scanner;
+
+public class EjerciciosJava01 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Scanner teclado = new Scanner(System.in);
+        
+        
     }
 }
